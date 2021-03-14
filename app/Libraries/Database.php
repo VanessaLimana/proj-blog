@@ -5,7 +5,7 @@ class Database {
     private $host = 'localhost';
     private $usuario = 'root';
     private $senha = '';
-    private $banco = 'proj-blog';
+    private $banco = 'marmo';
     private $porta = '3306';
     private $dbh;
     private $stmt;
